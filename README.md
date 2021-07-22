@@ -6,14 +6,15 @@
 - 📚 I am currently pursing Masters in Computer Science
 - ✍️ Recently started to write tech blogs on: [https://medium.com/@ArchitaJoshi]
 
-
+<!--
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/archita-joshi-2810/]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][https://www.facebook.com/archita.joshi.39/]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/_archita__joshi_/]
 
 <br />
+-->
 
 
 <!--

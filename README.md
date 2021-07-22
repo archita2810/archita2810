@@ -4,7 +4,7 @@
 ## I'm a enthusiastic programmer and a curious learner!
 
 - 📚 I am currently pursing Masters in Computer Science
-- ✍️ Recently started to write tech blogs on: [https://medium.com/@ArchitaJoshi]
+- ✍️ Recently started to write tech blogs on: https://medium.com/@ArchitaJoshi
 
 <!--
 ### Connect with me:

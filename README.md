@@ -1,10 +1,11 @@
-### Hi there, I'm [Archita Joshi][https://archita2810.github.io/portfolio/] 👋
+### Hi there, I'm Archita Joshi 👋
 [![Website](https://img.shields.io/badge/Archita%20Joshi-UP-brightgreen)](https://archita2810.github.io/portfolio/)
 
 ## I'm a enthusiastic programmer and a curious learner!
 
 - 📚 I am currently pursing Masters in Computer Science
-- ✍️ Recently started to write: [tech blogs!][https://medium.com/@ArchitaJoshi]!
+- ✍️ Recently started to write tech blogs on: [https://medium.com/@ArchitaJoshi]
+
 
 ### Connect with me:
 

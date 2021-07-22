@@ -5,7 +5,7 @@
 
 - 🔭 I am currently pursing Masters in Computer Science
 - ✍️ Recently started to write tech blogs on: https://medium.com/@ArchitaJoshi
-- 💬 Ask me about Java, C, C++
+- 💬 Ask me about **Java, C, C++**
 -  📫 How to reach me: architajoshi1970@gmail.com
 
 <!--

@@ -1,5 +1,18 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Archita Joshi!
+### Hi there, I'm [Archita Joshi][website] 👋
+[![Website](https://img.shields.io/badge/Archita%20Joshi-UP-brightgreen)](https://archita2810.github.io/portfolio/)
+
+## I'm a enthusiastic programmer and a curious learner!
+
+- 📚 I am currently pursing Masters in Computer Science
+- ✍️ Recently started to write: [tech blogs!][https://medium.com/@ArchitaJoshi]!
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/archita-joshi-2810/]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][https://www.facebook.com/archita.joshi.39/]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/_archita__joshi_/]
+
+<br />
 
 
 <!--

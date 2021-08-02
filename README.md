@@ -1,7 +1,7 @@
-### Hi there, I'm Archita Joshi 👋
+## Hi there, I'm Archita Joshi 👋
 [![Website](https://img.shields.io/badge/Archita%20Joshi-UP-brightgreen)](https://archita2810.github.io/portfolio/)
 
-## I'm an enthusiastic programmer and a curious learner!
+### I'm an enthusiastic programmer and a curious learner!
 
 - 🔭 Currently pursuing Masters in Computer Science at https://iccs.ac.in/
 - ✍️ Recently started to write on https://medium.com/@ArchitaJoshi

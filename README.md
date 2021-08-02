@@ -3,8 +3,8 @@
 
 ## I'm an enthusiastic programmer and a curious learner!
 
-- 🔭 I'm currently pursuing Masters in Computer Science
-- ✍️ Recently started to write on: https://medium.com/@ArchitaJoshi
+- 🔭 Currently pursuing Masters in Computer Science at https://iccs.ac.in/
+- ✍️ Recently started to write on https://medium.com/@ArchitaJoshi
 - 💬 Ask me about **Java, C, C++**
 -  📫 How to reach me: architajoshi1970@gmail.com
 -  ⚡ Visit me: https://archita2810.github.io/portfolio/

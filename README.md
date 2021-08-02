@@ -1,4 +1,4 @@
-## Hi there, I'm Archita Joshi 👋
+# Hi there, I'm Archita Joshi 👋
 [![Website](https://img.shields.io/badge/Archita%20Joshi-UP-brightgreen)](https://archita2810.github.io/portfolio/)
 
 ### I'm an enthusiastic programmer and a curious learner!

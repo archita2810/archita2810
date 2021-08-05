@@ -1,14 +1,16 @@
-# <center> Hi there, I'm Archita Joshi 👋 </center>
+<h1 align="center"> Hi there, I'm Archita Joshi 👋 </h1>
 <!-- [![Website](https://img.shields.io/badge/Archita%20Joshi-UP-brightgreen)](https://archita2810.github.io/portfolio/)
 -->
 
-### I'm an enthusiastic programmer and a curious learner!
+<h3>I'm an enthusiastic programmer and a curious learner! </h3>
 
-- 🔭 Currently pursuing Masters in Computer Science at https://iccs.ac.in/
+- 🔭 Currently pursuing Masters in Computer Science at [Indira College of Commerce and Science](https://iccs.ac.in/)
 - ✍️ Recently started to write on https://medium.com/@ArchitaJoshi
 - 💬 Ask me about **Java, C, C++**
 -  📫 How to reach me: architajoshi1970@gmail.com
 -  ⚡ Visit me: https://archita2810.github.io/portfolio/
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=archita2810&show_icons=true" alt="archita2810" /> </p>
 
 <!--
 ### Connect with me:
